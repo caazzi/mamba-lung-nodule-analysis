@@ -1,0 +1,13 @@
+torch
+torchvision
+torchaudio
+monai
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+tqdm
+ipython
+jupyterlab
+pydicom
